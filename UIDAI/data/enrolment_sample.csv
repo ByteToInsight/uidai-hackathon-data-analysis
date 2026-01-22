@@ -1,0 +1,101 @@
+State,District,Date,age_0_5,age_5_17,age_18_greater
+Maharashtra,Pune,17-01-2025,22,84,187
+Karnataka,Mysore,02-01-2025,6,16,86
+Delhi,New Delhi,18-01-2025,19,68,52
+Tamil Nadu,Chennai,14-01-2025,32,59,130
+Tamil Nadu,Chennai,12-01-2025,29,32,154
+Tamil Nadu,Madurai,05-01-2025,6,13,94
+Maharashtra,Mumbai,09-01-2025,49,22,130
+Delhi,North Delhi,20-01-2025,41,71,180
+Karnataka,Bangalore,19-01-2025,8,48,65
+Tamil Nadu,Madurai,01-01-2025,14,88,186
+Uttar Pradesh,Kanpur,04-01-2025,17,58,160
+Delhi,New Delhi,12-01-2025,26,77,164
+Karnataka,Hubli,04-01-2025,1,13,55
+Tamil Nadu,Madurai,14-01-2025,18,35,188
+Uttar Pradesh,Varanasi,08-01-2025,28,27,68
+Tamil Nadu,Madurai,02-01-2025,6,16,136
+Tamil Nadu,Coimbatore,04-01-2025,35,68,197
+Uttar Pradesh,Kanpur,10-01-2025,41,79,81
+Uttar Pradesh,Kanpur,06-01-2025,24,85,128
+Karnataka,Bangalore,06-01-2025,12,88,74
+Tamil Nadu,Madurai,16-01-2025,16,58,120
+Uttar Pradesh,Varanasi,04-01-2025,31,85,53
+Karnataka,Bangalore,08-01-2025,6,60,142
+Delhi,North Delhi,04-01-2025,20,75,149
+Delhi,South Delhi,01-01-2025,39,24,95
+Delhi,North Delhi,02-01-2025,6,46,107
+Delhi,North Delhi,18-01-2025,44,68,103
+Delhi,North Delhi,05-01-2025,20,76,130
+Delhi,North Delhi,08-01-2025,11,46,141
+Karnataka,Mysore,10-01-2025,43,39,196
+Tamil Nadu,Chennai,20-01-2025,12,40,175
+Tamil Nadu,Coimbatore,13-01-2025,20,19,90
+Uttar Pradesh,Varanasi,08-01-2025,39,25,178
+Uttar Pradesh,Kanpur,13-01-2025,38,87,165
+Tamil Nadu,Chennai,09-01-2025,8,12,198
+Tamil Nadu,Chennai,13-01-2025,18,18,81
+Karnataka,Hubli,07-01-2025,42,59,155
+Uttar Pradesh,Varanasi,07-01-2025,42,71,189
+Uttar Pradesh,Varanasi,01-01-2025,18,34,118
+Tamil Nadu,Chennai,16-01-2025,26,23,140
+Uttar Pradesh,Kanpur,13-01-2025,3,75,156
+Delhi,North Delhi,01-01-2025,21,76,112
+Karnataka,Bangalore,19-01-2025,47,24,125
+Delhi,South Delhi,15-01-2025,30,95,105
+Maharashtra,Pune,08-01-2025,36,96,77
+Delhi,New Delhi,18-01-2025,0,25,59
+Delhi,North Delhi,05-01-2025,10,50,169
+Karnataka,Hubli,16-01-2025,18,51,126
+Karnataka,Bangalore,08-01-2025,42,61,62
+Uttar Pradesh,Varanasi,11-01-2025,48,99,167
+Tamil Nadu,Madurai,10-01-2025,37,98,166
+Uttar Pradesh,Lucknow,13-01-2025,36,41,146
+Karnataka,Mysore,11-01-2025,13,42,77
+Uttar Pradesh,Kanpur,01-01-2025,9,66,53
+Uttar Pradesh,Lucknow,11-01-2025,3,16,127
+Karnataka,Bangalore,10-01-2025,5,78,91
+Uttar Pradesh,Lucknow,04-01-2025,40,93,64
+Uttar Pradesh,Kanpur,19-01-2025,11,69,141
+Karnataka,Hubli,04-01-2025,43,51,94
+Maharashtra,Pune,08-01-2025,49,92,134
+Karnataka,Bangalore,18-01-2025,22,38,54
+Delhi,South Delhi,04-01-2025,35,32,63
+Tamil Nadu,Coimbatore,20-01-2025,48,72,98
+Tamil Nadu,Madurai,14-01-2025,48,34,79
+Tamil Nadu,Madurai,06-01-2025,18,15,116
+Tamil Nadu,Madurai,19-01-2025,8,95,161
+Uttar Pradesh,Lucknow,17-01-2025,41,65,137
+Tamil Nadu,Chennai,08-01-2025,21,82,66
+Delhi,New Delhi,03-01-2025,1,14,77
+Karnataka,Mysore,02-01-2025,14,84,165
+Uttar Pradesh,Lucknow,06-01-2025,10,33,105
+Tamil Nadu,Chennai,09-01-2025,2,48,71
+Karnataka,Hubli,03-01-2025,32,38,182
+Delhi,South Delhi,09-01-2025,18,86,58
+Karnataka,Mysore,09-01-2025,7,32,148
+Karnataka,Mysore,07-01-2025,20,56,120
+Tamil Nadu,Coimbatore,20-01-2025,44,81,120
+Maharashtra,Pune,04-01-2025,24,97,107
+Delhi,New Delhi,12-01-2025,38,40,148
+Uttar Pradesh,Lucknow,06-01-2025,11,90,168
+Uttar Pradesh,Lucknow,04-01-2025,22,43,83
+Delhi,South Delhi,15-01-2025,23,38,151
+Delhi,South Delhi,16-01-2025,24,99,177
+Delhi,New Delhi,16-01-2025,12,44,155
+Maharashtra,Pune,08-01-2025,19,60,56
+Karnataka,Hubli,20-01-2025,29,86,118
+Tamil Nadu,Coimbatore,09-01-2025,46,30,116
+Delhi,New Delhi,06-01-2025,25,80,67
+Maharashtra,Pune,14-01-2025,3,60,182
+Delhi,New Delhi,20-01-2025,46,79,146
+Uttar Pradesh,Varanasi,11-01-2025,22,84,96
+Tamil Nadu,Coimbatore,08-01-2025,8,29,140
+Maharashtra,Nagpur,18-01-2025,46,43,126
+Tamil Nadu,Coimbatore,10-01-2025,17,92,182
+Delhi,New Delhi,20-01-2025,35,45,82
+Delhi,New Delhi,10-01-2025,18,51,108
+Uttar Pradesh,Kanpur,03-01-2025,12,13,188
+Uttar Pradesh,Lucknow,10-01-2025,42,99,73
+Maharashtra,Mumbai,12-01-2025,9,16,194
+Karnataka,Mysore,05-01-2025,17,58,180
